@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Cassiano Carvalho 👋
 
 - 🔭 Trabalho atualmente com back-end
-- 🌱 Estou estudando NodeJS e SQL Server 
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
